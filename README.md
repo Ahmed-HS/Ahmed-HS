@@ -19,5 +19,5 @@ Hi, I'm Ahmed Hatem, a Google Certified Associate Android Developer, With great 
 ![Associate Android Developer Certificate](https://raw.githubusercontent.com/Ahmed-HS/Ahmed-HS/main/Associate%20Android%20Developer%20Certificate.png)
 
 ### Training and Exercises App for an Upwork client
-#### [Project Link](https://github.com/Ahmed-HS/LifeStyleApp)\
+#### [Project Link](https://github.com/Ahmed-HS/LifeStyleApp)
 ![Client Review](https://raw.githubusercontent.com/Ahmed-HS/Ahmed-HS/main/Upwork%20Review.png)

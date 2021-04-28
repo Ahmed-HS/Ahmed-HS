@@ -13,6 +13,7 @@ Hi, I'm Ahmed Hatem, a Google Certified Associate Android Developer, With great 
 * **Notifications**
 * **Version control using git**
 
+#### [Resume Link](https://docs.google.com/document/d/1FvwwruUMC4ikArQn1b9IjLS8KVDy_v0NAAHa6TdbSBg/edit?usp=sharing)
 
 ## Experience and Certifications
 ### [Associate Android Developer Certificate](https://www.credential.net/4feb7099-9e4f-4de9-a4c9-c18a9dcff090?key=b2cfc8ceb09e547178a5308489e4acdcabf00aafcae4402bec0a9ecad838c87a)

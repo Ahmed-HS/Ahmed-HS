@@ -2,16 +2,16 @@
 Hi, I'm Ahmed Hatem, a Google Certified Associate Android Developer, With great passion, and dedication for mobile development. I always push myself to the limits continuously searching for the most optimal ways of building rich native mobile apps with clean and efficient architecture in mind using the latest tools, and patterns. I look forward to learning something new everyday, further improving my skill set. My goal as a mobile developer is to make potential users enjoy using my apps just as I enjoy making them :)
 
 ## Skills
-* Java/Kotlin
-* Kotlin coroutines
-* MVVM architecture
-* App modularization
-* Dependency injection using dagger hilt
-* Working with REST Apis with retrofit 2
-* Jetpack architecture components
-* Material design components
-* Notifications
-* Version control using git
+* **Java/Kotlin**
+* **Kotlin coroutines**
+* **MVVM architecture**
+* **App modularization**
+* **Dependency injection using dagger hilt**
+* **Working with REST Apis with retrofit 2**
+* **Jetpack architecture components**
+* **Material design components**
+* **Notifications**
+* **Version control using git**
 
 
 ## Experience and Certifications
